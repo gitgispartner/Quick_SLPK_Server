@@ -1,3 +1,7 @@
+slpk/**/
+slpk/0.slpk
+slpk/las_selected_old.slpk.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
